@@ -1,3 +1,5 @@
+# Hi, I'm Yash Kapoor🧑🏻‍💻
+
 # 💫 About Me:
 🔭 I’m currently working on developing projects to gain better hands-on experience in the Software Engineering Community.<br>🤝 I’m looking for help with finding internships.<br>🌱 I’m currently learning back-end web development and Postgre SQL.<br>💬 Ask me about why I took up Computer Science and what do I wish to achieve.<br>⚡ Fun Fact - I lift, yes, as a CS major. Not all of us are scared to touch grass.
 
